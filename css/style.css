@@ -204,7 +204,6 @@ ul{
 	opacity:0;
 	animation:fade-in-animation 3s ease-in forwards;
 }
-}
 
 .poslodavci img:hover{
 	transform:scale(0.8);
@@ -281,7 +280,6 @@ footer ul a{
 	opacity:0;
 	animation:fade-in-animation 2s ease-in forwards;
 }
-}
 .slikegal:hover{
 	transform:scale(1.1);
 	opacity:0.8;
@@ -300,7 +298,6 @@ footer ul a{
     justify-content:space-around;
 	opacity:0;
 	animation:fade-in-animation 2s ease-in forwards;
-}
 }
 #okvau{
 	background-color:#ffffff;
@@ -334,7 +331,6 @@ footer ul a{
     padding:20px;
 	opacity:0;
 	animation:fade-out-animation 3s ease-in forwards;
-}
 }
 
 
