@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Salon za pse LOLA</title>
+        <link>https://aleksandra-blazic.github.io</link>
+        <description>Pratite naša nova obaveštenja</description>
+        <item>
+            <title>Slobodan termin za sisanje</title>
+            <link>https://aleksandra-blazic.github.io/usluge.html</link>
+            <description>Danas ima slobodan termin u 14h.</description>
+        </item>
+        <item>
+            <title>Saveti</title>
+            <link>https://aleksandra-blazic.github.io/index.html</link>
+            <description>Instrukcije za odrzavanje dlake.</description>
+        </item>
+    </channel>
+</rss>
