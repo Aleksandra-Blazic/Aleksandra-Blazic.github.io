@@ -201,6 +201,9 @@ ul{
 	column-rule:1px outset #e2e2e2;
 	margin:0px 50px;
 	padding-bottom:30px;
+	opacity:0;
+	animation:fade-in-animation 3s ease-in forwards;
+}
 }
 
 .poslodavci img:hover{
@@ -256,6 +259,8 @@ footer ul a{
 	padding-top:300px;
     color:#ffffff;
 	text-align:center;
+	opacity:0;
+	animation:fade-in-animation 3s ease-in forwards;
 }
 #okvirgal{
 	background-color:#ffffff;
@@ -273,6 +278,9 @@ footer ul a{
     padding-bottom:50px;
     display:flex;
     justify-content:space-around;
+	opacity:0;
+	animation:fade-in-animation 2s ease-in forwards;
+}
 }
 .slikegal:hover{
 	transform:scale(1.1);
@@ -290,6 +298,9 @@ footer ul a{
     padding-bottom:50px;
     display:flex;
     justify-content:space-around;
+	opacity:0;
+	animation:fade-in-animation 2s ease-in forwards;
+}
 }
 #okvau{
 	background-color:#ffffff;
@@ -321,6 +332,9 @@ footer ul a{
 	color:#31515d;
 	text-align:center;
     padding:20px;
+	opacity:0;
+	animation:fade-out-animation 3s ease-in forwards;
+}
 }
 
 
@@ -340,11 +354,15 @@ footer ul a{
 	padding-top:250px;
     color:#ffffff;
 	text-align:center;
+	opacity:0;
+	animation:fade-in-animation 3s ease-in forwards;
 }
 #tekstusl p{
 	text-align:center;
 	font-size:20px;
 	color:#ffffff;
+	opacity:0;
+	animation:fade-in-animation 3s ease-in forwards;
 }
 #tebela1{
 	width:50%;
