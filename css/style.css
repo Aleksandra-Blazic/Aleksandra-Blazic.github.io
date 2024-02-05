@@ -245,7 +245,7 @@ ul{
 	color:#fff;
 }
 .radnik p{
-	font-size:20px;
+	font-size:18px;
 	text-align:center;
 	color:#fff;
 }
@@ -356,7 +356,8 @@ footer ul a{
 .tekstautor p{
 	color:#31515d;
 	text-align:center;
-    padding:20px;
+	font-size:18px;
+    	padding:20px;
 	opacity:0;
 	animation:fade-out-animation 3s ease-in forwards;
 }
