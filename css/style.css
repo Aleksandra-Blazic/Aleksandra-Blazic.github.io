@@ -32,6 +32,9 @@ nav ul{
 	padding-top:25px;
 	float:right;
 }
+li{
+	margin:0px 15px;
+}
 #meni li a{
 	margin-left:20px;
 	font-size:18px;
