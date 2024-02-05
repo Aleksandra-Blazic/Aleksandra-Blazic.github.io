@@ -474,3 +474,7 @@ form{
     text-align:center;
 	border-bottom-style:none;
 }
+td input{
+	height:20px;
+	width:180px;
+}
