@@ -165,13 +165,13 @@ footer{
 }
 .sadrzaj{
 	width:85%;
-    margin:0px auto;
-    display:flex;
-    justify-content:space-evenly;
+    	margin:0px auto;
+    	display:flex;
+    
 }
 .polje{
 	width:28%;
-    margin:10px 0px 10px 0px;
+    	margin:10px 30px 10px 90px;
 }
 .polje p{
 	text-align:left;
@@ -189,7 +189,7 @@ footer{
 .fa{
 	display:inline-block;
 	color:#e2e2e2;
-    padding: 5px 10px;
+    	padding: 5px 10px;
 	font: normal normal normal 14px/1 FontAwesome;
 	font-size: 18px;
 }
